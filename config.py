@@ -1,0 +1,8 @@
+#mysql
+DB_USER='xujiong'
+DB_PWD="Xj82645901"
+DB_HOST="rm-bp1k655s3l048c2adco.mysql.rds.aliyuncs.com"
+DB_DATABASE="prpinsdb3"
+DB_PORT="3306"
+newclaim_fields=['endorseno', 'policyno', 'agentcode', 'agentcodeclaim', 'agentname', 'agentnameclaim', 'appliname', 'carchecker', 'carcheckername', 'cfhjbf', 'comcode', 'comcodeclaim', 'comname', 'comnameclaim', 'endate', 'firstchannel', 'handler1code', 'handlercode', 'handlerman', 'insuredname', 'licenseno', 'monopolycode', 'monopolyname', 'newsumpremium', 'operatedate', 'operatorcode', 'operatorname', 'rate', 'saleman', 'secondchannel', 'startdate', 'sumpremium', 'usercodeclaim', 'usernameclaim', 'yjbf', 'classcode', 'riskcode', 'documenttype']
+
